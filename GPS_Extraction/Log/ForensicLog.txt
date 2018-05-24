@@ -1,0 +1,156 @@
+2017-10-22 20:52:59,367Scan Started
+2017-10-22 20:52:59,417No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 20:52:59,417No GPS EXIF Data for images\batdog.jpg
+2017-10-22 20:52:59,427GPS Data Calculated for: images\Biking.jpg
+2017-10-22 20:52:59,430No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 20:52:59,431No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 20:52:59,450GPS Data Calculated for: images\Castle.JPG
+2017-10-22 20:52:59,450No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 20:52:59,463GPS Data Calculated for: images\Cat.jpg
+2017-10-22 20:52:59,473GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 20:52:59,483No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 20:52:59,529Logging Shutdown
+2017-10-22 21:19:39,046Scan Started
+2017-10-22 21:19:39,098No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:19:39,098No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:19:39,115GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:19:39,115No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:19:39,115No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:19:39,130GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:19:39,130No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:19:39,130GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:19:39,145GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:19:39,145No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:19:39,183Logging Shutdown
+2017-10-22 21:20:54,292Scan Started
+2017-10-22 21:20:54,345No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:20:54,345No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:20:54,345GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:20:54,361No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:20:54,361No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:20:54,377GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:20:54,377No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:20:54,377GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:20:54,392GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:20:54,392No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:20:54,430Logging Shutdown
+2017-10-22 21:23:42,749Scan Started
+2017-10-22 21:23:42,796No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:23:42,796No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:23:42,811GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:23:42,811No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:23:42,811No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:23:42,826GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:23:42,826No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:23:42,845GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:23:42,848GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:23:42,848No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:23:42,895Logging Shutdown
+2017-10-22 21:25:17,872Scan Started
+2017-10-22 21:25:17,926No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:25:17,926No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:25:17,941GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:25:17,941No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:25:17,941No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:25:17,957GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:25:17,957No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:25:17,973GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:25:17,973GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:25:17,973No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:25:18,026Logging Shutdown
+2017-10-22 21:25:45,217Scan Started
+2017-10-22 21:25:45,265No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:25:45,265No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:25:45,283GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:25:45,286No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:25:45,286No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:25:45,286GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:25:45,286No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:25:45,302GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:25:45,318GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:25:45,318No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:25:45,365Logging Shutdown
+2017-10-22 21:27:34,944Scan Started
+2017-10-22 21:27:34,982No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:27:34,982No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:27:35,029Logging Shutdown
+2017-10-22 21:28:45,305Scan Started
+2017-10-22 21:28:45,358No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:28:45,358No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:28:45,374GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:28:45,374No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:28:45,374No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:28:45,388GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:28:45,388No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:28:45,388GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:28:45,404GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:28:45,404No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:28:45,443Logging Shutdown
+2017-10-22 21:29:32,559Scan Started
+2017-10-22 21:29:32,607No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:29:32,607No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:29:32,622GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:29:32,625No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:29:32,625No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:29:32,628GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:29:32,628No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:29:32,644GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:29:32,660GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:29:32,660No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:29:32,690Logging Shutdown
+2017-10-22 21:30:38,338Scan Started
+2017-10-22 21:30:38,385No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:30:38,385No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:30:38,401GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:30:38,401No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:30:38,401No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:30:38,417GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:30:38,417No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:30:38,433GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:30:38,433GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:30:38,433No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:30:38,447GPS Data Calculated for: images\Turtle.jpg
+2017-10-22 21:30:38,447No GPS EXIF Data for images\zzz.jpg
+2017-10-22 21:30:38,447Logging Shutdown
+2017-10-22 21:31:26,989Scan Started
+2017-10-22 21:31:27,036No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:31:27,036No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:31:27,052GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:31:27,052No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:31:27,052No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:31:27,066GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:31:27,066No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:31:27,066GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:31:27,088GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:31:27,088No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:31:27,088GPS Data Calculated for: images\Turtle.jpg
+2017-10-22 21:31:27,088No GPS EXIF Data for images\zzz.jpg
+2017-10-22 21:31:27,105Logging Shutdown
+2017-10-22 21:35:20,822Scan Started
+2017-10-22 21:35:20,868No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-22 21:35:20,868No GPS EXIF Data for images\batdog.jpg
+2017-10-22 21:35:20,884GPS Data Calculated for: images\Biking.jpg
+2017-10-22 21:35:20,884No GPS EXIF Data for images\brucelee.jpg
+2017-10-22 21:35:20,884No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-22 21:35:20,900GPS Data Calculated for: images\Castle.JPG
+2017-10-22 21:35:20,900No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-22 21:35:20,921GPS Data Calculated for: images\Cat.jpg
+2017-10-22 21:35:20,921GPS Data Calculated for: images\Deutchland.JPG
+2017-10-22 21:35:20,921No GPS EXIF Data for images\fileproperties.jpg
+2017-10-22 21:35:20,937GPS Data Calculated for: images\Turtle.jpg
+2017-10-22 21:35:20,937No GPS EXIF Data for images\zzz.jpg
+2017-10-22 21:35:20,937Logging Shutdown
+2017-10-23 00:13:01,388Scan Started
+2017-10-23 00:13:01,420No GPS EXIF Data for images\bach-bach-bach.jpg
+2017-10-23 00:13:01,434No GPS EXIF Data for images\batdog.jpg
+2017-10-23 00:13:01,440GPS Data Calculated for: images\Biking.jpg
+2017-10-23 00:13:01,440No GPS EXIF Data for images\brucelee.jpg
+2017-10-23 00:13:01,440No GPS EXIF Data for images\bunny-sink.jpg
+2017-10-23 00:13:01,457GPS Data Calculated for: images\Castle.JPG
+2017-10-23 00:13:01,457No GPS EXIF Data for images\cat-on-roof.jpg
+2017-10-23 00:13:01,473GPS Data Calculated for: images\Cat.jpg
+2017-10-23 00:13:01,473GPS Data Calculated for: images\Deutchland.JPG
+2017-10-23 00:13:01,473No GPS EXIF Data for images\fileproperties.jpg
+2017-10-23 00:13:01,487GPS Data Calculated for: images\Turtle.jpg
+2017-10-23 00:13:01,487No GPS EXIF Data for images\zzz.jpg
+2017-10-23 00:13:01,487Logging Shutdown
