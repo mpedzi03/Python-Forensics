@@ -50,10 +50,9 @@ for r in range(PW_LOW, PW_HIGH):
     # generate a file containing the
     # hash, password pairs
     # one per line
-
 try:
     # Open the output file
-    fp = open(DIR+'all', 'w')
+    fp = open(DIR+'all','w')
 
     # process each generated password
 

@@ -2,7 +2,7 @@
 # Python Ping Sweep GUI Application
 #
 # import the necessary modules
-import wx           # Import the GUI module wx
+import wx          # Import the GUI module wx
 import sys          # Import the standard library module sys
 import pyping     # Import the ICMP Ping Module 
 import socket     # Import the standard library module socket

@@ -11,9 +11,8 @@ import nltk
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
 from nltk.stem.porter import *
+from nltk.stem import PorterStemmer
 from collections import Counter
-
-# NLTKQuery Class
 
 class classNLTKQuery:
     def textCorpusInit(self, thePath):
@@ -28,21 +27,21 @@ class classNLTKQuery:
             self.Corpus = PlaintextCorpusReader(thePath, '.*')
             print "Processing Files:"
             print self.Corpus.fileids()
-            print "Please wait...."   
+            print "Please wait...."
             self.rawText = self.Corpus.raw()
             self.tokens = nltk.word_tokenize(self.rawText)
-            
             upperstop = [word.upper() for word in stopwords.words('english')]
             self.tokens_nostop = [t for t in self.tokens if t not in upperstop]
             
                                   
             self.TextCorpus = nltk.Text(self.tokens)
+            
             self.TextCorpusNoStop = nltk.Text(self.tokens_nostop)
 
             self.stemmer = PorterStemmer()
             self.stemmedTokens = [self.stemmer.stem(t.lower()) for t in self.tokens_nostop]
             self.stemmedText = nltk.Text(self.stemmedTokens)
-
+            
             self.PosTaggedCorpus =nltk.pos_tag(self.tokens)
             
         except:
@@ -129,13 +128,17 @@ class classNLTKQuery:
             print "Token entry is invalid"
     def showAllWordsGivenPosTag(self):
         print
-        partOfSpeech = raw_input("Enter part-of-speech to filter words out from Corpus: ")
+        print "(Examples of parts-of-speech: NN, PRP, VB, VBP, CC, JJ, RB, IN)"
+        print
+        partOfSpeech = raw_input("Enter part-of-speech to filter words out from Corpus: ").upper()
         words = set()
         for wrd, tag in self.PosTaggedCorpus:
             if tag.startswith(partOfSpeech):
                 words.add(wrd)
         print words
     def showAllPosTagsGivenWord(self):
+        print
+        print "(Examples of parts-of-speech: NN, PRP, VB, VBP, CC, JJ, RB, IN)"
         print
         wordEntered = raw_input("Enter a word for which you would like to search parts of speech: ")
         posTags = set()
@@ -146,7 +149,9 @@ class classNLTKQuery:
         # ^Have user enter a Word & print out all Part of Speech tags that the word is given in the Corpus.
     def showMostCommonWordsGivenPosTag(self):
         print
-        partOfSpeech = raw_input("Enter part-of-speech: ")
+        print "(Examples of parts-of-speech: NN, PRP, VB, VBP, CC, JJ, RB, IN)"
+        print
+        partOfSpeech = raw_input("Enter part-of-speech: ").upper()
         words = []
         for wrd, tag in self.PosTaggedCorpus:
             if tag.startswith(partOfSpeech):

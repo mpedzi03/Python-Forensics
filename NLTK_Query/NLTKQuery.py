@@ -22,7 +22,7 @@ userSpecifiedPath = raw_input("Path: ")
 
 # Attempt to create a text Corpus
 result = oNLTK.textCorpusInit(userSpecifiedPath)
-
+print "result variable = " + result
 if result == "Success":
     menuSelection = -1
     while menuSelection != 0:

@@ -11,7 +11,7 @@ import multiprocessing # multiprocessing library
 #
 
 lowerCase = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
-upperCase = ['G', 'H', 'I', 'J', 'K', 'L']
+upperCase = ['G', 'H', 'I', 'J', 'K', 'L', 'M']
 numbers = ['0', '1', '2', '3']
 special = ['!', '@', '#', '$']
 
@@ -68,11 +68,11 @@ if __name__ == '__main__':
     # Mark the starting time of the main loop
     startTime = time.time()
 
-    # Create a process Pool with 4 processes
-    corePool = multiprocessing.Pool(processes = 4)
+    # Create a process Pool with 2 processes
+    corePool = multiprocessing.Pool(processes = 2)
 
     # map corePool to the Pool processes
-    results = corePool.map(pwGenerator, (2, 3, 4, 5))
+    results = corePool.map(pwGenerator, (2, 3, 4 , 5))
 
     # Create a dictionary for easy lookups
     pwDict = {} # !
@@ -112,7 +112,7 @@ if __name__ == '__main__':
     # Demonstrate the use of the Dictionary to lookup
     # a password using a known hash value
     pw = pwDict.get('c6f1d6b1d33bcc787c2385c19c29c208')
-    print 'Hash Value Tested = \ 2bca9b23eb8419728fdeca3345b344fc'
+    print 'Hash Value Tested =  2bca9b23eb8419728fdeca3345b344fc'
     print 'Associated Passwords = '+ pw
 
     

@@ -1,0 +1,38 @@
+CHANING SIZE OF DOTS
+LinePanel (in the line panel class)
+	private int pointSize
+	public get & set 
+	(also initialize in constructor)
+	
+	public void paintComponent  (currently of size 10 points)
+		g.drawOval use pointSize
+		g.drawLine from prev point to the (curX, curY) location
+
+in the frame (where we have the actionlistener listening to somebody wanting to change the set pointSize)
+
+Frame
+	actionListener
+		tell the line panel to setPointSize
+
+**last one (draw your connecting line)
+g.drawline needs to be in the right place
+
+mouseMoved
+	e.getX, e.getY() (tells you where the mouse is currentl located
+	curX = e.getX(), curY = e.getY()
+	repaint()
+
+**whether or not to add points**
+Question about drawing or not drawing lines
+public void paintComponent
+	if shouldDrawLines is true
+		g.drawLine goes in here
+
+
+**drawing constellations of lines between pts
+		
+
+*Call super.paintcomponent in paintComponent()
+*make sure prevPoint is identified even before setting a value
+
+

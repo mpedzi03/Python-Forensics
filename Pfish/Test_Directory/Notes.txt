@@ -1,0 +1,11 @@
+You cannot build an Object of an abstract class
+java.lang.Object is the ancestor of everything. (everyone gets 11 functions for free)
+default constructor is one that takes in no parameters --> sets all data members to 
+
+the super keyword refers to the imediately adjacent superclass
+super() calls the default constructor for that immediate superclass
+super(x,y) calls the non-default constructor for that immediate superclass
+super.someFunction() calls the superclass's version of a particular function
+
+if you don't specify otherwise, i.e. give a different constructor to call,the default constructor of the superclass is called.
+	you don't explicitly need to call super();
