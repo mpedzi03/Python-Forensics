@@ -5,10 +5,6 @@
 
 Basic knowledge of Python and how to run programs from CMD prompts or similar.
 
-```
-Give examples
-```
-
 ### Installing
 
 See Python-Forensics_UserGuide.pdf for more details on how to setup / run / view results.
