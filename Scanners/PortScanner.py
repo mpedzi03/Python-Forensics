@@ -63,7 +63,7 @@ def portScan(event):
                     results.AppendText("\n")
                 # Close the socket
             reqSocket.close()
-        except socket.error, e:
+        except socket.error as e:
             # for socket Errors Report the offending IP
             results.AppendText(baseIP+'\t'+str(port)+'\t')
             results.AppendText('Failed: ')

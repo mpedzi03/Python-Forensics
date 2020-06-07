@@ -84,7 +84,7 @@ def pingScan(event):
                 results.AppendText('Response Timeout')
                 results.AppendText("\n")
 
-        except socket.error, e:
+        except socket.error as e:
             # If any socket Errors occur Report the offending IP
             # along with any error information provided by the socket
 
